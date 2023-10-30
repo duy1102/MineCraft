@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Introduction"
-    url: /Introduction/
+    url: /publications/
 
   - title: "WSL"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Linux Command Line User"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Management in Linux""
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
